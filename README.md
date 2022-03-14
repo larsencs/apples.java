@@ -1,3 +1,4 @@
+![Java](https://img.shields.io/badge/Java-17.0.2-yellow)
 ## About The Project
 This was an assignment given during undergrad.
 
